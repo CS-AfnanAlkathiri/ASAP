@@ -86,9 +86,8 @@ Project alignment with **ITU AI Readiness 1.0/2.0** is documented in `/report`.
 ├── rag/              # Policy retrieval (TF-IDF vector store)
 ├── src/               # Core pipeline: validation, preprocessing, training,
 │                        prediction, explainability, alerting, routing
-├── tests/            # Automated test suite
-├── demo/            # Demo materials
-└── report/           # ITU AI Readiness / Y.3172 alignment report
+└── tests/            # Automated test suite
+
 ```
 
 ## Tech Stack
