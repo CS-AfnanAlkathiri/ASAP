@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+models/*.joblib
+rag/vector_store/*.pkl
+.env
+.pytest_cache/
