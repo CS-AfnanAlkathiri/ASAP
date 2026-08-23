@@ -13,6 +13,12 @@ knowledge base.
 
 **This system does not make decisions about students.** It produces a risk assessment, an explanation, and relevant policy context — the Program Advisor makes every final call.
 
+## Live Demo
+
+🔗 **ASAP** [Open the deployed MVP](https://asap-ykwj.onrender.com)
+
+> This is a hackathon MVP demonstrating the advisor-facing workflow, including academic risk prediction, contributing factors, policy retrieval, and human-in-the-loop review.
+
 ## Team
 
 | Name | Role | Email |
