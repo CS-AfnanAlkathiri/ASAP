@@ -43,8 +43,8 @@ def clean_text(text: str) -> str:
 
 
 ENTRY_PATTERN = re.compile(
-    r"^\s*(\d{1,2})\.\s+(.+?)\s*\n(.*?)(?=^\s*\d{1,2}\.\s+|\Z)",
-    re.DOTALL | re.MULTILINE,
+    r"(?<![\d.])(\d{1,2})\.\s+(.+?)\s*\n(.*?)(?=(?<![\d.])\d{1,2}\.\s+[A-Z]|\Z)",
+    re.DOTALL,
 )
 
 
