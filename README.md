@@ -15,7 +15,7 @@ knowledge base.
 
 ## Live Demo
 
-🔗 **ASAP** [Open the deployed MVP](https://asap-ykwj.onrender.com)
+🔗 **ASAP** [Try The Demo](https://asap-7avk.onrender.com)
 
 > This is a hackathon MVP demonstrating the advisor-facing workflow, including academic risk prediction, contributing factors, policy retrieval, and human-in-the-loop review.
 
